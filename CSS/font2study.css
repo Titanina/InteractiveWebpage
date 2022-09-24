@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+html{
+
+  font-size: 16px;
+
+}
+
+article {
+
+  font-size: 40px;
+
+}
+
+article h1 {
+
+    font-size : 1em;
+}
+
+article p {
+
+  font-size : 1em;
+
+}
+
+
+
+article a {
+
+  font-size : 0.8em;
+
+}
+
