@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+div {
+
+  width: 300px;
+  height: 200px;
+  margin: 50px;
+
+}
+
+
+div:nth-of-type(1) {
+
+  border-width: 1px;
+  border-style: solid;
+  border-color: red;
+}
